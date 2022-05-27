@@ -1,1 +1,3 @@
-# Conversor simples em alert para as bases binário/octal/hexadecimal
+# Conversor de Bases
+
+Conversor simples em JS para as bases binário/octal/hexadecimal
