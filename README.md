@@ -2,7 +2,7 @@
 
 Conversor simples em JS de decimal para as bases binário/octal/hexadecimal
 
-## Para utilizar
+## Como utilizar
 
 - Baixe os arquivos do repositório ou utilize git clone
 
