@@ -1,3 +1,5 @@
+<head><style>h3 {text-align: center}</style></head>
+
 <h1>Conversor de Bases</h1>
 
 Conversor simples em JS de decimal para as bases binário/octal/hexadecimal
@@ -10,5 +12,4 @@ Conversor simples em JS de decimal para as bases binário/octal/hexadecimal
 
 O resultado será este mesmo número nas diferentes bases, facilitando bastante na hora de converter.
 
-<style>h3 {text-align: center}</style>
 <h3>Aproveite!</h3>
