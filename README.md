@@ -10,4 +10,4 @@ Conversor simples em JS de decimal para as bases binário/octal/hexadecimal
 
 O resultado será este mesmo número nas diferentes bases, facilitando bastante na hora de converter.
 
-<h3 style="text-align: center">Aproveite!</h3>
+<h3 style='text-align: center'>Aproveite!</h3>
